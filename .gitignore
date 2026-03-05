@@ -1,0 +1,8 @@
+# C++
+*/build/
+*.o
+*.out
+*.vscode
+
+
+# Python
